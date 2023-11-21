@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "6558b9c62a0a4e8a7e0d604f"
   },
-  "ten": "Áo Cardigan Đen",
-  "mota": "Một chiếc áo khoác cho mùa đông lạnh không em",
+  "ten": "Stitched Knitted Cardigan - Black",
+  "mota": "Test1",
   "gia": 250000,
   "soluong": 46,
   "isDeleted": false,
@@ -37,8 +37,8 @@
   "_id": {
     "$oid": "6558bed0f4ac6280b9f4ad3d"
   },
-  "ten": "Cargo Túi Hộp Đen",
-  "mota": "Quần Cargo Túi Hộp Đen, hip hop gang gang yeah yeah",
+  "ten": "Men's Vintage Loose Cargo Jeans",
+  "mota": "Test2",
   "gia": 200000,
   "soluong": 95,
   "isDeleted": false,

@@ -1,19 +1,19 @@
-# Shopping app
+# Shopping app / Quản lý bán hàng
 
 ## Backend
 
-Nodejs + Express + Mongdb
+NodeJS + Express + MongoDB
 
 ### Enviroment variable
 
-Copy file `.env.example` to file `.env` and update some properties
+Copy file `.env.example` to file `.env` and update properties
 
 ```sh
 cp .env.example .env
 ```
 
 - `DB_CONNECT_STRING`: url to the mongodb database
-- `ACCESS_TOKEN_KEY`: Jwt secret key using for user authentication
+- `ACCESS_TOKEN_SECRET`: Jwt secret key using for user authentication
 
 ### Install packages
 
@@ -37,7 +37,7 @@ npm run start
 
 ### Import Data (JSON)
 
-Go to /data folder, cd into the web you are using. Then import it into the database (MongoFB Compass)
+Go to /data folder, cd into the web you're using. Then import it into the database (MongoDB Compass)
 
 ### Create an staff (admin) account
 
@@ -53,17 +53,17 @@ npm run createcustomer
 
 ## Frontend
 
-Vuejs + Pinia + Bootstrap
+Vue.js + Pinia + Bootstrap
 
 ### Enviroment variables
 
-Copy file `.env.example` to file `.env.local` and update some variables
+Copy file `.env.example` to file `.env.local` and update variables
 
 ```sh
 cp .env.example .env.local
 ```
 
-- `VITE_APP_API_URL`: Api server url
+- `VITE_APP_API_URL`: API server url
 
 ### Install packages
 
