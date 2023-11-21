@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6555ff1d9910104000248f36"
+  },
+  "model": "DatHang",
+  "field": "id",
+  "count": 1009,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555ff1d9910104000248f34"
+  },
+  "model": "NhanVien",
+  "field": "id",
+  "count": 999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555ff1d9910104000248f32"
+  },
+  "model": "KhachHang",
+  "field": "id",
+  "count": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655605e26ebf2208b683d63f"
+  },
+  "model": "HangHoa",
+  "field": "id",
+  "count": 1001,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655605e26ebf2208b683d641"
+  },
+  "model": "HinhHH",
+  "field": "id",
+  "count": 1011,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557177094a176e850f45343"
+  },
+  "model": "ChiTietDatHang",
+  "field": "id",
+  "count": 1015,
+  "__v": 0
+}]

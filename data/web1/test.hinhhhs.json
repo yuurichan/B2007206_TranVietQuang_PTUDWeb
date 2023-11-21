@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6558be45f4ac6280b9f4ad32"
+  },
+  "ten": "Stitched Knitted Cardigan - Black _ XL.jpeg",
+  "path": "public/images/e5740fc03cae42641b1406b953d3cd1a",
+  "createdAt": {
+    "$date": "2023-11-18T13:38:13.524Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T13:38:13.524Z"
+  },
+  "id": 1003,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558c01e85d61c0d53088635"
+  },
+  "ten": "Men's Vintage Loose Cargo Jeans.jpeg",
+  "path": "public/images/e64dd80a6f137750d622bef2ae0d72e8",
+  "createdAt": {
+    "$date": "2023-11-18T13:46:06.702Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T13:46:06.702Z"
+  },
+  "id": 1011,
+  "__v": 0
+}]

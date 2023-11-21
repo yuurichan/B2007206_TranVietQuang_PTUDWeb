@@ -1,0 +1,39 @@
+{
+	"name": "backend",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"start": "node ./bin/www",
+		"dev": "nodemon",
+		"format": "prettier --write .",
+		"createstaff": "node ./createstaff.js",
+		"createcustomer": "node ./createcustomer.js"
+	},
+	"_moduleAliases": {
+		"~": "./"
+	},
+	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"body-parser": "^1.20.1",
+		"cookie-parser": "~1.4.4",
+		"cors": "^2.8.5",
+		"debug": "~2.6.9",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"express-query-parser": "^1.3.3",
+		"http-errors": "~1.6.3",
+		"jade": "^0.29.0",
+		"jsonwebtoken": "^9.0.0",
+		"module-alias": "^2.2.2",
+		"mongoose": "^6.11.3",
+		"mongoose-auto-increment": "^5.0.1",
+		"morgan": "~1.9.1",
+		"multer": "^1.4.5-lts.1",
+		"nodemon": "^3.0.1"
+	},
+	"devDependencies": {
+		"@faker-js/faker": "^8.3.1",
+		"eslint": "^8.32.0",
+		"prettier": "^2.8.3"
+	}
+}

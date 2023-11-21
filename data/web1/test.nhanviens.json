@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6558bcf08df9464e373b37ed"
+  },
+  "ten": "Admin",
+  "sdt": "0926166166",
+  "username": "admin",
+  "password": "$2a$10$E4dxgAVeq0E2xgnPH0FNWedwvfY7B1hQnaOfT6AzqWlHHWcALZXbe",
+  "diachi": "CMT8, Bình Thủy, Cần Thơ",
+  "chucvu": "nhanvien",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-11-17T12:22:39.041Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-17T15:14:34.280Z"
+  },
+  "id": 1000,
+  "__v": 0
+}]

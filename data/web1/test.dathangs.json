@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6559ada7914273f60d0d366c"
+  },
+  "ngayDH": {
+    "$date": "2023-11-19T06:39:35.415Z"
+  },
+  "trangThaiDH": "received",
+  "kh": {
+    "$oid": "65575b0f45e2f35b634c4db8"
+  },
+  "chitiets": [
+    {
+      "$oid": "6559ada7914273f60d0d3670"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-11-19T06:39:35.417Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-19T06:39:35.428Z"
+  },
+  "id": 1009,
+  "__v": 0
+}]
